@@ -1,0 +1,10 @@
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+D:\VisionCollege\Soft Dev\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+D:\VisionCollege\Soft Dev\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+D:\VisionCollege\Soft Dev\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+D:\VisionCollege\Soft Dev\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
